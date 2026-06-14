@@ -24,4 +24,4 @@ Godotエンジンを使用して作成した、Flappy Birdライクなアクシ�
 * **ゲームエンジン**: Godot Engine4
 * **使用言語**: GDScript,
 * **使用LLM**:Claude Fable5,Opus4.8
-* **使用素材**Kenny
+* **使用素材**:Kenney(https://kenney.nl/)
